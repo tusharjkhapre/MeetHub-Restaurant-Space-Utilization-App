@@ -25,33 +25,11 @@ Our mission is to create a win-win solution for both restaurant owners and custo
 
 By contributing to this project, you have the opportunity to be part of an innovative solution that bridges the gap between underutilized restaurant spaces and the growing demand for affordable meeting and celebration venues. This project not only helps businesses but also provides significant value to communities by making more efficient use of existing resources.
 
-## Installation
-
-To set up the project locally, follow these steps:
 
 
-# Clone the repository
-git clone https://github.com/yourusername/restaurant-space-utilization.git
-
-# Navigate to the project directory
-cd restaurant-space-utilization
-
-# Install dependencies
-npm install
-
-# Start the application
-npm start
-
-Usage
-After setting up the project, you can use the following commands to interact with the app:
-# To start the server
-npm start
-
-# To run tests
-npm test
 Contributing
 We are looking for passionate developers to join our team and help bring this project to life. Whether you are a front-end developer, back-end developer, UX/UI designer, or a project manager, your skills and expertise are valuable to us.
-bash'''
+
 How to Contribute
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
