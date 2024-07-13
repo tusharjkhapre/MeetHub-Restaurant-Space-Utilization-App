@@ -1,4 +1,5 @@
-# Restaurant Space Utilization App(Research/logo.jpeg)
+# Restaurant Space Utilization App
+![Restaurant Space Utilization App](Research/logo.jpeg)
 
 ## Description
 
