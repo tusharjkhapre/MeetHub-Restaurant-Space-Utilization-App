@@ -1,4 +1,4 @@
-# Restaurant Space Utilization App(/restaurant-app.png)
+# Restaurant Space Utilization App(Research/logo.jpeg)
 
 ## Description
 
@@ -50,7 +50,7 @@ npm start
 npm test
 Contributing
 We are looking for passionate developers to join our team and help bring this project to life. Whether you are a front-end developer, back-end developer, UX/UI designer, or a project manager, your skills and expertise are valuable to us.
-
+bash'''
 How to Contribute
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
